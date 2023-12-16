@@ -9,12 +9,12 @@ Randomly selects a word from a predefined list.
 Allows players to guess letters.
 Tracks incorrect guesses and updates the hangman figure.
 Ends the game when the player correctly guesses the word or exceeds the maximum allowed incorrect guesses.
-1. Clone the repository to your local machine.
+# Clone the repository to your local machine.
 
 ```bash
 git clone https://github.com/rks2601/Hangman-Game.git
 
-Code Structure
+**Code Structure**
 The main code file is hangman_functions.cpp. The program is organized into functions for better readability and maintainability.
 
 generateRandomWord(): Selects a random word from a predefined list.
@@ -22,6 +22,11 @@ displayWord(): Displays the current state of the word with correctly guessed let
 guessLetter(): Handles the player's letter input and updates the game state accordingly.
 drawHangman(): Draws the hangman figure based on the number of incorrect guesses.
 isGameOver(): Checks if the game is over (either the word is guessed or too many incorrect guesses).
+
+# Demo
+ ![Screenshot (1293)](https://github.com/rks2601/Hangman-Game/assets/122681297/475c243b-8bcd-47ab-a959-4a59d2c4667c)
+![Screenshot (1294)](https://github.com/rks2601/Hangman-Game/assets/122681297/624138cd-2c59-4e04-97b7-7e5ad48d4826)
+![Screenshot (1295)](https://github.com/rks2601/Hangman-Game/assets/122681297/fc81abc5-8278-4a04-a7aa-ff63a8d69c98)
 
 Contributing
 Feel free to contribute to the project by submitting issues or pull requests. Bug fixes, new features, and improvements are welcome.
