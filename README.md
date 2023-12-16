@@ -31,9 +31,9 @@ This Hangman game is licensed under the MIT License. See the LICENSE file for de
 This README provides basic information about the game, instructions on how to play, details on the code structure, and guidance for contributing and licensing. Customize it as needed based on the specific details of your Hangman game implementation.
 
 DEMO:
-![Screenshot (1293)](https://github.com/rks2601/Hangman-Game/assets/122681297/fefbd93a-34f1-40b6-b7b8-328ab31045b2)
-![Screenshot (1294)](https://github.com/rks2601/Hangman-Game/assets/122681297/bb17ad63-c9c5-4535-91fb-856b1acffd56)
-![Screenshot (1295)](https://github.com/rks2601/Hangman-Game/assets/122681297/5b77d65a-ae43-41c2-8e75-0c44db8df468)
 
+![Screenshot (1293)](https://github.com/rks2601/Hangman-Game/assets/122681297/10823202-e629-42ef-911a-11d73ebd23b8)
+![Screenshot (1294)](https://github.com/rks2601/Hangman-Game/assets/122681297/a177c207-972b-4c78-9263-4872c097c841)
 
+![Screenshot (1295)](https://github.com/rks2601/Hangman-Game/assets/122681297/fd468504-f9bc-4cbb-b4a7-00f2cae3b122)
 
